@@ -17,4 +17,9 @@ Commands include 'stats', 'price', 'graph', and 'help'.
   
 Sample outputs:   
 
-![Alt text](Price.png)
+![Price Lookup](Stats.PNG)
+![Price Lookup](Price.PNG)
+![Price Lookup](PriceNotFound.PNG)
+![Price Lookup](Graph.PNG)
+![Price Lookup](Help.PNG)
+
