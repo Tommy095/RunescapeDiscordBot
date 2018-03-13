@@ -6,7 +6,7 @@ The bot is designed to fetch and process data from the Runescape API to display 
 Created using the node js framework.  
   
 Reads in user commands from the chat room of the discord server and processes them to output information.  
-The bot relies on a publically available JSON file of item names and item ids.  This allows the bot to process item names into item ids in order to use the Runescape APIs.  The goal of making this bot was to begin to learn how to use javascript, JSON files, web APIs, and how to build a usable tool with features as requested by a player of Runescape.  
+The bot relies on a publically available JSON file of item names and item ids.  This allows the bot to process item names into item ids in order to use the Runescape APIs.  The goal of making this bot was to begin to learn how to use javascript, JSON files, web APIs, and how to build a usable tool with features as requested by a player of Runescape.  Since this was initially built while learning during a hackathon, many things would be done differently if it was built again, however it does implement many of the most useful features requested to be included in this project.
   
 Commands include 'stats', 'price', 'graph', and 'help'.  
 * 'stats' takes in one or two player-names and displays specific user-requested stats with level and XP, or all stats with the levels displayed.  
