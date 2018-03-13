@@ -16,3 +16,5 @@ Commands include 'stats', 'price', 'graph', and 'help'.
 * 'help' privately messages the user with the possible commands.  
   
 Sample outputs:   
+
+![Alt text](Price.png)
