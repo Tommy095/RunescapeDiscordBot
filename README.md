@@ -2,7 +2,7 @@
 Code for the bot is contained in Discordbot.js
 
 This is a bot for Discord (https://discordapp.com/) created during and after HackRU 2017.  
-The bot is designed to fetch and process data from the Runescape API to display to users.  
+The bot is designed to read and parse user commands and then fetch and process data from the Runescape API to display to users.  
 Created using the node js framework.  
   
 Reads in user commands from the chat room of the discord server and processes them to output information.  
